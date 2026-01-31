@@ -27,61 +27,16 @@
   * [Model Quality Monitoring](explore/case-studies/model-quality-monitoring.md)
 * [Quality Reports and Benchmarks](explore/quality-reports-and-benchmarks.md)
 
-## Installation
+## USE
 
-* [AWS](guides/installation/aws.md)
-* [Azure](guides/installation/azure.md)
-* [GCP](guides/installation/gcp.md)
-* [OCI](guides/installation/oci.md)
-* [On-Prem](guides/installation/on-prem.md)
-
-## Telemetry and Ingestion
-
-* [Telemetry Model](guides/telemetry-and-ingestion/telemetry-model.md)
-* [Ingestion Pipelines](guides/telemetry-and-ingestion/ingestion-pipelines.md)
-* [Signal Normalization](guides/telemetry-and-ingestion/signal-normalization.md)
-
-## Quality Evaluation
-
-* [Evaluation Pipelines](guides/quality-evaluation/evaluation-pipelines.md)
-* [Drift Detection](guides/quality-evaluation/drift-detection.md)
-* [Language and Domain Analysis](guides/quality-evaluation/language-domain-analysis.md)
-* [A/B Testing Support](guides/quality-evaluation/a-b-testing-support.md)
-
-## Feedback Management
-
-* [Explicit Feedback](guides/feedback-management/explicit-feedback.md)
-* [Implicit Feedback](guides/feedback-management/implicit-feedback.md)
-* [Governance Feedback](guides/feedback-management/governance-feedback.md)
-* [Human-in-the-Loop](guides/feedback-management/human-in-the-loop.md)
-* [Dashboards and Analytics](guides/dashboards-and-analytics.md)
-
-## APIs
-
-* [API Overview](apis/api-overview.md)
-* [Telemetry APIs](apis/telemetry-apis.md)
-* [Metrics APIs](apis/metrics-apis.md)
-* [Feedback APIs](apis/feedback-apis.md)
-* [Audit APIs](apis/audit-apis.md)
-* [Workflows](guides/workflows.md)
-* [Deployment and Operations](guides/deployment-and-operations.md)
+* [Home](use/home.md)
+* [observe-util](use/observe-util.md)
 
 ## Community
 
 * [How to Participate](community/how-to-participate.md)
 * [Contribution Guidelines](community/contribution-guidelines.md)
 * [Support and Discussions](community/support-and-discussions.md)
-
-## Previous Versions
-
-* [Version 1.x](previous-versions/v1/overview.md)
-* [Version 2.x](previous-versions/v2/overview.md)
-
-## Release Notes
-
-* [v3.x](release-notes/v3.x.md)
-* [v2.x](release-notes/v2.x.md)
-* [v1.x](release-notes/v1.x.md)
 
 ## Misc
 
